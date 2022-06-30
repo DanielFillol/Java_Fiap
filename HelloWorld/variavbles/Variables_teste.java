@@ -14,9 +14,6 @@ public class Variables_teste {
 		System.out.println(gender);
 		System.out.println(legalAge);
 		
-	
-		
-
 	}
 
 }
