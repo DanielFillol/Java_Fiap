@@ -4,20 +4,24 @@ public class MathOperators {
 
 	public static void main(String[] args) {
 		
-		int x = 9;
-		int y = 2;
+		int x = 10;
+		int y = 3;
 		
 		int sum = x+y;
-		int sub = x-y;
-		int mult = x*y;
-		int div = x/y;
-		int mod = x%y;
-		
 		System.out.println("Sum restult: " + sum);
+		
+		int sub = x-y;
 		System.out.println("Subtraciton restult: " + sub);
+		
+		int mult = x*y;
 		System.out.println("Multiplication restult: " + mult);
+		
+		double div = x/(double)y;
 		System.out.println("Division restult: " + div);
+		
+		int mod = x%y;
 		System.out.println("Module restult: " + mod);
+
 		
 		x++;
 		System.out.println("Increment result: " + x);

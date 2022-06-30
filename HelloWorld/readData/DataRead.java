@@ -18,15 +18,18 @@ public class DataRead {
 		sc.close();
 		
 		int sum = firstNumber+seccondNumber;
-		int sub = firstNumber-seccondNumber;
-		int mul = firstNumber*seccondNumber;
-		int div = firstNumber/seccondNumber;
-		int mod = firstNumber%seccondNumber;
-		
 		System.out.println("Sum:" + sum);
+		
+		int sub = firstNumber-seccondNumber;
 		System.out.println("Sub:" + sub);
+		
+		int mul = firstNumber*seccondNumber;
 		System.out.println("Mul:" + mul);
+		
+		double div = firstNumber/ (double) seccondNumber;
 		System.out.println("div:" + div);
+		
+		int mod = firstNumber%seccondNumber;
 		System.out.println("mod:" + mod);
 
 		

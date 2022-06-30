@@ -9,18 +9,15 @@ public class Conversions {
 		long l = x;
 		float f = x;
 		
-		
 		int y = (int) x;
-		
 		System.out.println(y);
 		
 		double dValue = 9.99;
-		int iValue = (int) dValue;
-		
 		System.out.println(dValue);
+		
+		
+		int iValue = (int) dValue;
 		System.out.println(iValue);
-				
-
 	}
 
 }
