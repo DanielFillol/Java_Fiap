@@ -6,17 +6,19 @@ public class BMI {
 
 	public static void main(String[] args) {
 		
+		float weigth, height, bmi;
+		
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Informe your weight:");
-		float weigth = sc.nextFloat();
+		weigth = sc.nextFloat();
 		
 		System.out.println("Informe your height:");
-		float height = sc.nextFloat();
+		height = sc.nextFloat();
 			
 		sc.close();
 		
-		float bmi = weigth/(height*height);
+		bmi = weigth/(height*height);
 		System.out.println("Your IBM is: " + bmi);
 		
 		if (bmi <= 18.5) {
