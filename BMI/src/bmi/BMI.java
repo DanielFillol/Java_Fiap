@@ -10,10 +10,10 @@ public class BMI {
 		
 		Scanner sc = new Scanner(System.in);
 		
-		System.out.println("Informe your weight:");
+		System.out.println("Inform your weight:");
 		weigth = sc.nextFloat();
 		
-		System.out.println("Informe your height:");
+		System.out.println("Inform your height:");
 		height = sc.nextFloat();
 			
 		sc.close();
