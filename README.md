@@ -30,3 +30,7 @@ First steps on OOP in Java (Class)
 - [Using First Class](https://github.com/Darklabel91/Java_Fiap/blob/main/Class/objects/Test.java)
 - [First Documentation](https://github.com/Darklabel91/Java_Fiap/tree/main/Class/doc)
 
+## Inheritance
+- [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Inheritance/1SCJO%20-%20Fundamentos%20Java%20-%20cap04%20-%20Heranca_RevFinal.pdf)
+- [First Inheritance](https://github.com/Darklabel91/Java_Fiap/blob/main/Inheritance/src/inheritance/SavingsAccount.java)
+
