@@ -5,6 +5,10 @@ public class SavingsAccount extends Account {
 	private String AccountType;
 	private double Overdraft;
 	
+	public SavingsAccount() {
+		
+	}
+	
 	public SavingsAccount(int accountNumber,int bankAccount, double balance, String AccountType, double Overdraft) {
 		super (accountNumber, bankAccount, balance);
 		this.AccountType = AccountType;
