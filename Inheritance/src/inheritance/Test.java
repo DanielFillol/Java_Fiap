@@ -4,10 +4,8 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		SavingsAccount cc = new SavingsAccount();
-		
-		cc.setBalance(1000);
-		cc.setOverdraft(5000);
+		SavingsAccount cc = new SavingsAccount(123,321,100,",V.I.P",100);
+	
 		
 		System.out.println(cc.getAvailableBalance());
 		System.out.println(cc.getBalance());
@@ -18,6 +16,22 @@ public class Test {
 		}else {
 			System.out.println("The obj is't Savings Account");
 		}
+		
+		
+		//How Override works 
+		Account c = new Account();
+		
+		c.setBalance(100);
+		
+		System.out.println("The balance of the account is: " + c.getBalance());
+		System.out.println("The balance of the saings account is: " + cc.getBalance());
+		 
+		c.withdraw(50, 10);
+		cc.withdraw(50, 10);
+		
+		System.out.println("The balance of the account is: " + c.getBalance());
+		System.out.println("The balance of the saings account is: " + cc.getBalance());
+		
 		
 		
 

@@ -30,13 +30,14 @@ public class Account {
 	}
 	
 	/**
-	 * Constructor for Conta
+	 * Constructor for Account
 	 * @param acountNumber
 	 * @param bankNumber
 	 */
-	public Account(int accountNumber, int bankNumber) {
+	public Account(int accountNumber, int bankNumber, double balance) {
 		setAccountNumber(accountNumber);
 		setBankNumber(bankNumber);
+		setBalance(balance);
 	}
 	
 	/**
@@ -130,7 +131,11 @@ public class Account {
 	 * @param tax - the tax to be deducted
 	 */
 	public void withdraw(double amount, double tax) {
-		double totalAmount = amount + tax;
-		withdraw(totalAmount);
+		if (amount > 0) {
+			double totalAmount = amount + tax;
+			withdraw(totalAmount);
+		}else {
+			System.out.println("The amount has to be greater than 0");
+		}
 	}
 }
