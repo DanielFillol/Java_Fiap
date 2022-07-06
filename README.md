@@ -5,11 +5,11 @@ Folder for Java MBA studies on [FIAP](https://www.googleadservices.com/pagead/ac
 Simple introduction on Java.
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/BasicJava/MBA%20SCJO%20-%20Fase%201%20-%20Capitulo%20de%20projeto_RevFinal.pdf)
 
-## Object Oriented Programming
+## 1 - Object Oriented Programming
 Simple introduction on OOP
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/BasicJava/1SCJO%20-%20Fundamentos%20Java%20-%20cap01%20-%20%20Orientacao%20a%20Objetos_RevFinal.pdf)
 
-## Hello World!
+## 2 - Hello World!
 First steps on Java.
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/BasicJava/1SCJO%20-%20Fundamentos%20Java%20-%20cap02%20-%20Hello%20World_RevFinal.pdf)
 - [First PKG](https://github.com/Darklabel91/Java_Fiap/blob/main/BasicJava/firstPackege/Hello_World.java)
@@ -23,19 +23,19 @@ First steps on Java.
 Build a Body Mass Index (BMI) calculator
 - [Link](https://github.com/Darklabel91/Java_Fiap/tree/main/BMI)
 
-## Class Methods and Attributes
+## 3 - Class Methods and Attributes
 First steps on OOP in Java (Class)
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Class/1SCJO%20-%20Fundamentos%20Java%20-%20cap03%20-%20Classes%2C%20metodos%20e%20atributos_RevFinal.pdf)
 - [First Class](https://github.com/Darklabel91/Java_Fiap/blob/main/Class/objects/Account.java)
 - [Using First Class](https://github.com/Darklabel91/Java_Fiap/blob/main/Class/objects/Test.java)
 - [First Documentation](https://github.com/Darklabel91/Java_Fiap/tree/main/Class/doc)
 
-## Inheritance
+## 4 - Inheritance
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Inheritance/1SCJO%20-%20Fundamentos%20Java%20-%20cap04%20-%20Heranca_RevFinal.pdf)
 - [First Inheritance](https://github.com/Darklabel91/Java_Fiap/blob/main/Inheritance/src/inheritance/SavingsAccount.java)
 - [Override](https://github.com/Darklabel91/Java_Fiap/blob/main/Inheritance/src/inheritance/override.java)
 
-## Structs
+## 5 - Structs
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/1SCJO%20-%20Fundamentos%20Java%20-%20cap05%20-%20Estruturas_RevFinal.pdf)
 - [While](https://github.com/Darklabel91/Java_Fiap/blob/main/Loops/src/loops/While.jav)
 - [Do While](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/loops/DoWhile.java)
