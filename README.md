@@ -35,3 +35,10 @@ First steps on OOP in Java (Class)
 - [First Inheritance](https://github.com/Darklabel91/Java_Fiap/blob/main/Inheritance/src/inheritance/SavingsAccount.java)
 - [Override](https://github.com/Darklabel91/Java_Fiap/blob/main/Inheritance/src/inheritance/override.java)
 
+## Structs
+- [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Loops/1SCJO%20-%20Fundamentos%20Java%20-%20cap05%20-%20Estruturas_RevFinal.pdf)
+- [DO](https://github.com/Darklabel91/Java_Fiap/blob/main/Loops/src/loops/While.java)
+- [DO WHILE](https://github.com/Darklabel91/Java_Fiap/blob/main/Loops/src/loops/DoWhile.java)
+- [FOR](https://github.com/Darklabel91/Java_Fiap/blob/main/Loops/src/loops/For.java)
+
+
