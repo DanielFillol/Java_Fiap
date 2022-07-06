@@ -19,6 +19,7 @@ public class DoWhile {
 		} while (psw != 1138);
 		
 		System.out.println("You found the secret number!");
+
 	}
 
 }
