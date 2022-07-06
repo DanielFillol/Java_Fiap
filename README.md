@@ -42,5 +42,6 @@ First steps on OOP in Java (Class)
 - [For](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/loops/For.java)
 - [Array](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/array/array.java)
 - [For with Object](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/array/Test.java)
+- [Strings](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/string/string.java)
 
 
