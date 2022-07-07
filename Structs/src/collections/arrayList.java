@@ -12,8 +12,8 @@ public class arrayList {
 		//add
 		list.add("Daniel");
 		list.add("Java");
-		list.add("Phython");
-		list.add("Phython");
+		list.add("Python");
+		list.add("Python");
 		
 		//get
 		System.out.println("\nget");
@@ -34,12 +34,12 @@ public class arrayList {
 		System.out.println(list.get(1));
 		
 		//indexOf
-		System.out.println("\nindexOf: Phython");
-		System.out.println(list.indexOf("Phython"));
+		System.out.println("\nindexOf: Python");
+		System.out.println(list.indexOf("Python"));
 		
 		//lastIndexOf
-		System.out.println("\nlastIndexOf: Phython");
-		System.out.println(list.lastIndexOf("Phython"));
+		System.out.println("\nlastIndexOf: Python");
+		System.out.println(list.lastIndexOf("Python"));
 		
 		//subList
 		System.out.println("\nsubList");

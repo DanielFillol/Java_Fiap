@@ -11,7 +11,7 @@ public class hashSet {
 		
 		//add
 		list.add("Java");
-		list.add("Phython");
+		list.add("Python");
 		list.add("Go");
 		list.add("Java");
 		System.out.println(list);
