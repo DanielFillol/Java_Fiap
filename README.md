@@ -54,7 +54,7 @@ First steps on OOP in Java (Class)
 - [HashMap](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/collections/hashMap.java)
 - [Generics](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/collections/Generics.java)
 
-## Exceptions
+## 6 - Exceptions
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/1SCJO%20-%20Fundamentos%20Java%20-%20cap06%20-%20Exceptions%20%2B%20Varios%20outros_RevFinal.pdf)
 - [Exception](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/exceptions/exceptions.java)
 - [Throws](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/exceptions/Math.java) 
