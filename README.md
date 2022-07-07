@@ -44,5 +44,6 @@ First steps on OOP in Java (Class)
 - [For with Object](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/array/Test.java)
 - [Strings](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/string/string.java)
 - [ArrayList](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/collections/arrayList.java)
+- [HashSet](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/collections/hashSet.java)
 
 
