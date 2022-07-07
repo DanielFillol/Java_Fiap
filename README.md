@@ -37,16 +37,21 @@ First steps on OOP in Java (Class)
 
 ## 5 - Structs
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/1SCJO%20-%20Fundamentos%20Java%20-%20cap05%20-%20Estruturas_RevFinal.pdf)
+
 ### Loops
 - [While](https://github.com/Darklabel91/Java_Fiap/blob/main/Loops/src/loops/While.jav)
 - [Do While](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/loops/DoWhile.java)
 - [For](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/loops/For.java)
-### Objects
-- [Array](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/array/array.java)
 - [For with Object](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/array/Test.java)
+
+### Structs
+- [Array](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/array/array.java)
 - [Strings](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/string/string.java)
+
+### Collections
 - [ArrayList](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/collections/arrayList.java)
 - [HashSet](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/collections/hashSet.java)
 - [HashMap](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/collections/hashMap.java)
+- [Generics](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/collections/Generics.java)
 
 
