@@ -63,3 +63,7 @@ First steps on OOP in Java (Class)
 - [Reading Files](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/files/ReadingFiles.java)
 ### Abstract Class
 - [Abstract Class](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/abstractClass/Account.java)
+- [Final](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/finalMod/ClassB.java)
+- [Static](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/staticMod/TicketGate.java)
+- [Final](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/finalMod/ClassA.java)
+- [Interface](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/interfaces/User.java)
