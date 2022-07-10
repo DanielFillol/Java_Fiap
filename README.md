@@ -67,3 +67,6 @@ First steps on OOP in Java (Class)
 - [Static](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/staticMod/TicketGate.java)
 - [Final](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/finalMod/ClassA.java)
 - [Interface](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/interfaces/User.java)
+
+## 7 - Persistence (JPA/Hibernate)
+- [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Persistence/1SCJO%20-%20Fundamentos%20Java%20-%20cap07%20-%20%20Persistencia%20OO%20(setup)_RevFinal.pdf)
