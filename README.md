@@ -72,7 +72,7 @@ First steps on OOP in Java (Class)
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Persistence/1SCJO%20-%20Fundamentos%20Java%20-%20cap07%20-%20%20Persistencia%20OO%20(setup)_RevFinal.pdf) 
 
 ## 8 - Persistence OO (JPA)
-- [PDF (https://github.com/Darklabel91/Java_Fiap/blob/main/Persistence/1SCJO%20-%20Fundamentos%20Java%20-%20cap08%20-%20%20Persistencia%20OO%20(JPA)_RevFinal_20210929.pdf)]
+- [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Persistence/1SCJO%20-%20Fundamentos%20Java%20-%20cap08%20-%20%20Persistencia%20OO%20(JPA)_RevFinal_20210929.pdf)]
 
 ## 9 - Persistence OO (Generic DAO)
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Persistence/1SCJO%20-%20Fundamentos%20Java%20-%20cap09%20-%20%20Persistencia%20OO%20(Generic%20DAO)_RevFinal.pdf)
