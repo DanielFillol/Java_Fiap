@@ -100,3 +100,4 @@ From this moment further you will need to have a database to continue.
 
 ## 10 - Persistence OO (JPQL)
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Persistence/1SCJO%20-%20Fundamentos%20Java%20-%20cap10%20-%20Persistencia%20OO%20(JPQL)_RevFinal.pdf)
+- [JPQL](https://github.com/Darklabel91/Java_Fiap_Persistence/blob/master/src/main/java/jpql/TipoLivroDAOjpqpl.java)
