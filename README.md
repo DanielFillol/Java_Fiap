@@ -80,6 +80,15 @@ From this momment further you will need to have a database to continue.
 
 ## 8 - Persistence OO (JPA)
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Persistence/1SCJO%20-%20Fundamentos%20Java%20-%20cap08%20-%20%20Persistencia%20OO%20(JPA)_RevFinal_20210929.pdf)
+- [Persistence.xml](https://github.com/Darklabel91/Java_Fiap_Persistence/blob/master/src/main/resources/META-INF/persistence.xml)
+- [pom.xml](https://github.com/Darklabel91/Java_Fiap_Persistence/blob/master/pom.xml)
+- [EntitY](https://github.com/Darklabel91/Java_Fiap_Persistence/blob/master/src/main/java/jpa_exemple/LivrosTr.java)
+- [EntityManeger - create](https://github.com/Darklabel91/Java_Fiap_Persistence/blob/master/src/main/java/create.java)
+- [EntityManeger - read](https://github.com/Darklabel91/Java_Fiap_Persistence/blob/master/src/main/java/retrive_from_database.java)
+- [EntityManeger - update](https://github.com/Darklabel91/Java_Fiap_Persistence/blob/master/src/main/java/retrive_and_update.java)
+- [EntityManeger - update](https://github.com/Darklabel91/Java_Fiap_Persistence/blob/master/src/main/java/delete.java) 
+- [Relations - One To Many/Many to One](https://github.com/Darklabel91/Java_Fiap_Persistence/blob/master/src/main/java/search_test.java)
+- [Composite Primary Key] - To solve this problem we need to create a new class to represent the composite primary key and use inheritance. I never saw a composite primary key, so i dind't bother to create one and test. 
 
 ## 9 - Persistence OO (Generic DAO)
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Persistence/1SCJO%20-%20Fundamentos%20Java%20-%20cap09%20-%20%20Persistencia%20OO%20(Generic%20DAO)_RevFinal.pdf)
