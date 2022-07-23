@@ -68,6 +68,13 @@ First steps on OOP in Java (Class)
 - [Final](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/finalMod/ClassA.java)
 - [Interface](https://github.com/Darklabel91/Java_Fiap/blob/main/Exceptions/src/interfaces/User.java)
 
+-------------------------------
+From this momment further you will need to have a database to continue. 
+Recommed to create a MySql database.
+Also recommed the use of [InteliJ](https://www.jetbrains.com/pt-br/idea/download) istead of Eclipese.
+Helpfull viedo on how to implement classes 7/8/9 wit Intelij: [link](https://www.youtube.com/watch?v=QJddHc41xrM)
+-------------------------------
+
 ## 7 - Persistence (JPA/Hibernate)
 - [PDF](https://github.com/Darklabel91/Java_Fiap/blob/main/Persistence/1SCJO%20-%20Fundamentos%20Java%20-%20cap07%20-%20%20Persistencia%20OO%20(setup)_RevFinal.pdf) 
 
