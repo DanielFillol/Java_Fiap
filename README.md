@@ -44,7 +44,7 @@ First steps on OOP in Java (Class)
 - [Ref.](https://github.com/Darklabel91/Java_Fiap/blob/main/References/5.png)
 
 ### Loops
-- [While](https://github.com/Darklabel91/Java_Fiap/blob/main/Loops/src/loops/While.jav)
+- [While](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/loops/While.java)
 - [Do While](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/loops/DoWhile.java)
 - [For](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/loops/For.java)
 - [For with Object](https://github.com/Darklabel91/Java_Fiap/blob/main/Structs/src/array/Test.java)
